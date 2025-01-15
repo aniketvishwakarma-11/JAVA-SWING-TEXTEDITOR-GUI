@@ -85,18 +85,22 @@ This Java project demonstrates a simple Swing-based application featuring:
 
 ---
 
-## 
-1. Toolbar with buttons and icons.
-   ![Toolbar with buttons and icons]([SS1 (1).png](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(1).png?raw=true))
-2. File chooser dialog for opening text files.
-   ![File chooser dialog for opening text files.]([SS1 (2).png](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(2).png?raw=true))
-3. Color picker dialog for changing text color
-    ![ Color picker dialog for changing text color]([SS1 (3).png](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(3).png?raw=true))
-   ![DEMo]([SS1 (4).png](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(4).png?raw=true))
+## Screenshots
+1. **Toolbar with buttons and icons**:
+   ![Toolbar with buttons and icons](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(1).png?raw=true)
+   
+2. **File chooser dialog for opening text files**:
+   ![File chooser dialog for opening text files](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(2).png?raw=true)
+   
+3. **Color picker dialog for changing text color**:
+   ![Color picker dialog for changing text color](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(3).png?raw=true)
+   
+4. **DEMO**:
+   ![DEMO](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(4).png?raw=true)
 
 ---
 
 ## Contact
 For any queries or issues, feel free to reach out:
 - **Author**: Aniket  
-- **Email**: [Your Email Here]  
+- **Email**: [Your Email Here]
