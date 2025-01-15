@@ -86,17 +86,27 @@ This Java project demonstrates a simple Swing-based application featuring:
 ---
 
 ## Screenshots
+
 1. **Toolbar with buttons and icons**:
+
    ![Toolbar with buttons and icons](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(1).png?raw=true)
-   
+
 2. **File chooser dialog for opening text files**:
+
    ![File chooser dialog for opening text files](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(2).png?raw=true)
-   
+
 3. **Color picker dialog for changing text color**:
+
    ![Color picker dialog for changing text color](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(3).png?raw=true)
-   
+
 4. **DEMO**:
+
    ![DEMO](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(4).png?raw=true)
+
+5. **Uploaded Image** (Your Image):
+
+   ![Uploaded Image](data:image/png;base64,{{BASE64_ENCODED_IMAGE}})
+
 
 ---
 
