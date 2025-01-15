@@ -103,14 +103,11 @@ This Java project demonstrates a simple Swing-based application featuring:
 
    ![DEMO](https://github.com/aniketvishwakarma-11/JAVA-SWING-TEXTEDITOR-GUI/blob/main/SS1%20(4).png?raw=true)
 
-5. **Uploaded Image** (Your Image):
-
-   ![Uploaded Image](data:image/png;base64,{{BASE64_ENCODED_IMAGE}})
 
 
 ---
 
 ## Contact
 For any queries or issues, feel free to reach out:
-- **Author**: Aniket  
-- **Email**: [Your Email Here]
+- **Author**: Aniket Vishwakarma
+- **Email**: aniketvis675@gmail.com
